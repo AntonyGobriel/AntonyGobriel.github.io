@@ -13,7 +13,7 @@ My research interests include the interaction of demographic shocks and migratio
 
 
 ## Research & Working Papers
-*   **Work in Progress** **The Rise of International Migration: Evidence from Genealogical Data (2026)** - [Few research has been able to identify the determinants of historical migration flows in Europe. Data scarcity represent the main challenge. Using a new genealogical data set, we study the determinants and the transitions from regionl migration, to intra-European Migration to Translantic migration. Unlike census data that are year and place dependent, Genealogical data offers the great advatage to track individuals everywhere in the world from their birth till there death. We utilize this new data set to quantify and analyse the determinants of migration flows.]. 
+*   **The Rise of International Migration: Evidence from Genealogical Data (2026)** - [Few research has been able to identify the determinants of historical migration flows in Europe. Data scarcity represent the main challenge. Using a new genealogical data set, we study the determinants and the transitions from regionl migration, to intra-European Migration to Translantic migration. Unlike census data that are year and place dependent, Genealogical data offers the great advatage to track individuals everywhere in the world from their birth till there death. We utilize this new data set to quantify and analyse the determinants of migration flows.]. 
 Co-authors: Simone Moriconi (https://www.simone-moriconi.com/) , Riccardo Turati (https://sites.google.com/view/riccardoturati)
 
 
