@@ -1,5 +1,11 @@
 # Antony GOBRIEL
-PhD Student in Economic History of Migration and Demography | IÉSEG School of Management | UMR 9221 – LEM, CNRS · University of Lille
+
+<img src="profile.jpg" width="180" style="border-radius: 10px; float: right; margin-left: 20px;">
+
+PhD Student in Economic History of Migration and Demography  
+**IÉSEG School of Management** | **UMR 9221 – LEM, CNRS** | **University of Lille**
+
+---
 
 ## Biography
 I am a PhD Candidate in Economics at the University of Lille (LEM-CNRS 9221) and the IÉSEG School of Management. I am also a member of the IFLAME research center (IÉSEG Research Center on Family, Labor, and Migration Economics). 
@@ -18,6 +24,11 @@ My research specializes in the economic history of migration and demography. I s
 
 ## Curriculum Vitae
 * [Download my CV (PDF)](cv.pdf)
+
+## Affiliations
+<a href="https://lem.univ-lille.fr/"><img src="lem.png" height="50"></a> &nbsp;&nbsp;
+<a href="https://www.ieseg.fr/"><img src="ieseg.png" height="50"></a> &nbsp;&nbsp;
+<a href="https://iflame.ieseg.fr/"><img src="iflame.png" height="50"></a>
 
 ## Contact & Socials
 * **Email:** [a.gobriel@ieseg.fr](mailto:a.gobriel@ieseg.fr)
