@@ -26,13 +26,11 @@ My research specializes in the economic history of migration and demography. I s
 * [Download my CV (PDF)](cv.pdf)
 
 ## Affiliations
-<a href="https://www.cnrs.fr/"><img src="cnrs.png" height="40"></a> &nbsp;
-<a href="https://famigrowth.hypotheses.org/"><img src="famigrowth.png" height="40"></a> &nbsp;
-<a href="https://www.ieseg.fr/"><img src="ieseg.jpg" height="40"></a> &nbsp;
-<a href="https://iflame.ieseg.fr/"><img src="iflame.png" height="40"></a> &nbsp;
-<a href="https://lem.univ-lille.fr/"><img src="lem.png" height="40"></a> &nbsp;
-<a href="https://www.univ-lille.fr/"><img src="univlille.png" height="40"></a>
+
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://www.cnrs.fr/"><img src="cnrs.png" height="40"></a> | <a href="https://famigrowth.hypotheses.org/"><img src="famigrowth.png" height="40"></a> | <a href="https://www.ieseg.fr/"><img src="ieseg.png" height="40"></a> | <a href="https://iflame.ieseg.fr/"><img src="iflame.png" height="40"></a> | <a href="https://lem.univ-lille.fr/"><img src="lem.png" height="40"></a> | <a href="https://www.univ-lille.fr/"><img src="univlille.png" height="40"></a> |
 
 ## Contact
 * **Email:** [a.gobriel@ieseg.fr](mailto:a.gobriel@ieseg.fr)
-* [BlueSky](https://bsky.app/profile/antonygobriel.bsky.social) | [LinkedIn](https://www.linkedin.com/in/antony-gobriel)
+* **Socials:** [BlueSky](https://bsky.app/profile/antonygobriel.bsky.social) | [LinkedIn](https://www.linkedin.com/in/antony-gobriel)
