@@ -25,4 +25,4 @@ Co-authors: Simone Moriconi (https://www.simone-moriconi.com/) , Riccardo Turati
 
 ## Contact & Socials
 *   **Email:** [a.gobriel@ieseg.fr]
-*   [BlueSky](https://bsky.app/profile/antonygobriel.bsky.social) | [LinkedIn](www.linkedin.com/in/antony-gobriel)
+*   [BlueSky](https://bsky.app/profile/antonygobriel.bsky.social) | [LinkedIn](https://www.linkedin.com/in/antony-gobriel)
