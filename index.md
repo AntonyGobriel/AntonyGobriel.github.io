@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Antony GOBRIEL
 
 <img src="profile.jpg" width="160" style="border-radius: 10px; float: right; margin-left: 20px;">
