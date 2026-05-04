@@ -26,9 +26,12 @@ My research specializes in the economic history of migration and demography. I s
 * [Download my CV (PDF)](cv.pdf)
 
 ## Affiliations
-<a href="https://lem.univ-lille.fr/"><img src="lem.png" height="50"></a> &nbsp;&nbsp;
-<a href="https://www.ieseg.fr/"><img src="ieseg.png" height="50"></a> &nbsp;&nbsp;
-<a href="https://iflame.ieseg.fr/"><img src="iflame.png" height="50"></a>
+<a href="https://www.cnrs.fr/"><img src="cnrs.png" height="40"></a> &nbsp;&nbsp;
+<a href="https://www.anr-famigrowth.com/"><img src="famigrowth.png" height="40"></a> &nbsp;&nbsp;
+<a href="https://www.ieseg.fr/"><img src="ieseg.png" height="40"></a> &nbsp;&nbsp;
+<a href="https://iflame.ieseg.fr/"><img src="iflame.png" height="40"></a> &nbsp;&nbsp;
+<a href="https://lem.univ-lille.fr/"><img src="lem.png" height="40"></a> &nbsp;&nbsp;
+<a href="https://www.univ-lille.fr/"><img src="univlille.png" height="40"></a>
 
 ## Contact & Socials
 * **Email:** [a.gobriel@ieseg.fr](mailto:a.gobriel@ieseg.fr)
