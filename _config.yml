@@ -2,20 +2,17 @@
 theme: jekyll-theme-minimal
 
 # --- Site Info ---
-title: "Your Name"
-description: "PhD Candidate in Economics · University Name"
-author: "Your Name"
+title: "Antony Gobriel"
+description: "PhD Candidate in Economic History of migration and demography · Université de Lille"
+author: "Antony Gobriel"
 
 # --- URL & Baseurl ---
-# If your repo is username.github.io → leave baseurl empty
-# If your repo is username.github.io/mysite → baseurl: "/mysite"
-url: "https://username.github.io"
+url: "https://antonygobriel.github.io"
 baseurl: ""
 
-# --- Social / Contact (shown in the Minimal sidebar) ---
-# These are natively supported by the Minimal theme
+# --- Social ---
 github:
-  username: yourgithubusername
+  username: antonygobriel
 
 # --- Markdown & Syntax ---
 markdown: kramdown
@@ -25,7 +22,7 @@ kramdown:
   input: GFM
   auto_ids: true
 
-# --- Plugins (GitHub Pages safe list) ---
+# --- Plugins ---
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
