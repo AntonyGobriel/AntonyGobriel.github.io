@@ -1,0 +1,48 @@
+# --- Theme ---
+theme: jekyll-theme-minimal
+
+# --- Site Info ---
+title: "Your Name"
+description: "PhD Candidate in Economics · University Name"
+author: "Your Name"
+
+# --- URL & Baseurl ---
+# If your repo is username.github.io → leave baseurl empty
+# If your repo is username.github.io/mysite → baseurl: "/mysite"
+url: "https://username.github.io"
+baseurl: ""
+
+# --- Social / Contact (shown in the Minimal sidebar) ---
+# These are natively supported by the Minimal theme
+github:
+  username: yourgithubusername
+
+# --- Markdown & Syntax ---
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  auto_ids: true
+
+# --- Plugins (GitHub Pages safe list) ---
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# --- Defaults ---
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# --- Exclude from build ---
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - "*.gemspec"
+  - vendor/
